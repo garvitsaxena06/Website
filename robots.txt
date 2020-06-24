@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://garvitsaxena.me/sitemap.xml
+Host: https://garvitsaxena.me
