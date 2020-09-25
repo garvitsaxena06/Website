@@ -106,6 +106,7 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>Designed &amp; Built by Garvit Saxena</div>
+          <div style={{marginTop: "5px"}}>Inspired by <strong style={{fontWeight: "600", color: "#ffffff"}}>Brittany Chiang</strong></div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
